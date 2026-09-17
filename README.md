@@ -116,7 +116,7 @@ Each layer performs a specific function, allowing perception, decision-making, b
 ## UGV Finite State Machine
 
 <p align="center">
-  <img src="images/ugv_fsm.png" width="700">
+  <img src="images/ugb_fsm.png" width="700">
 </p>
 
 The UGV Finite State Machine manages the robot's behavior during normal motion and obstacle avoidance. The current FSM includes states for normal driving, obstacle avoidance, and path verification.
@@ -232,7 +232,7 @@ The demonstration shows the Morphobot detecting an obstacle in the Gazebo enviro
 ## TF Frame Structure
 
 <p align="center">
-  <img src="images/tf_tree.png" width="700">
+  <img src="images/TF_frame.png" width="700">
 </p>
 
 The TF2 tree establishes the spatial relationships between the Morphobot base, LiDAR, servo assemblies, legs, and wheels.
