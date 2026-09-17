@@ -73,10 +73,6 @@ The robot receives LiDAR measurements from the simulated environment and process
 
 ## Autonomy Pipeline
 
-<p align="center">
-  <img src="images/autonomy_pipeline.png" width="700">
-</p>
-
 The autonomy system follows a layered perception-to-control architecture:
 
 ```text
